@@ -1,0 +1,1 @@
+try{ jsonp52({"errorCode":-1,"errorStr":"您还没有登录","isLogin":false,"isannualfeevip":"","isvip":"","loginIp":"223.255.14.236","nickName":"","p_skey":"","p_uin":"","pt4_token":"","userLoginTime":"1474261710","userUin":"","viplevel":""});}catch(e){}

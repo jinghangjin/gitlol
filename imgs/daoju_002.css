@@ -1,0 +1,115 @@
+.ract span{display: none }
+.ract-box img{border: 0 }
+.ract-box{display: block; position: fixed; _position: absolute;bottom:1px; right: 1px; z-index: 99999; }
+.ract-feedback{bottom:27px;}
+.ract-box .collapse{z-index:99;width:32px;height:25px;line-height:25px;text-align:center;position:absolute; top:0; right:0;color:#EEE;text-decoration:none;font-size:18px}
+.ract-box .collapse:hover{color:#fff;text-decoration:none}
+
+.ract-box .ract-content {background: #FFF;width: 300px;height: 200px;right: 0;}
+
+.ract-box .djb {
+    border: 1px solid #E5E5E5;
+    height: 200px;
+    position: relative;
+    width: 300px;
+}
+.ract-box .djb a {
+    color: #3A3F4A;
+    text-decoration: none;
+}
+.ract-box .djb a:hover {
+    color: #F74A4A;
+    text-decoration: underline;
+}
+.ract-box .djb .lhd h2, .djb .geb img {
+    float: left;
+}
+.djb .geb img {
+	width: 101px;
+	height: 101px;
+}
+.ract-box .djb .lhd {
+    background: none repeat scroll 0 0 #F74A4A;
+    height: 28px;
+}
+.ract-box .djb .lhd h2 {
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 28px;
+    padding: 0 0 0 10px;
+    border: 0;
+    margin:0;
+}
+.ract-box .djb .geb {
+    border-bottom: 1px solid #E5E5E5;
+    height: 120px;
+    padding: 14px 15px 0;
+    overflow: hidden;
+	text-align: center;
+}
+.ract-box .djb .geb h6 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.ract-box .djb .geb .txt {
+    font-family: "Î¢ÈíÑÅºÚ";
+    font-size: 12px;
+    height: 84px;
+    line-height: 28px;
+    margin-left: 120px;
+    padding: 8px 15px 0 0;
+}
+.ract-box .djb.s2 .geb .txt,
+.ract-box .djb.s3 .geb .txt {
+	margin:0;
+	padding:0;
+}
+
+.ract-box .djb .geb .txt h6 {
+    margin-bottom: 0;
+    text-align: center;
+}
+.ract-box .djb.s3 .geb .txt h6 {
+	text-align:center;
+}
+.ract-box .djb.s2 .geb .txt h6 {
+	margin-bottom: 5px;
+	float:none;
+	text-align:center;
+}
+.ract-box .djb .geb .txt p {
+	line-height: 20px;
+	text-align: left;
+}
+.ract-box .djb.s3 .geb h6 {
+	padding-top: 30px;
+	text-align: center;
+}
+.ract-box .djb .b {
+    height: 24px;
+    line-height: 24px;
+    margin: 7px 0 0 215px;
+    width: 77px;
+}
+.ract-box .djb .b {
+    background: none repeat scroll 0 0 #F74A4A;
+    border-bottom: 2px solid #E43333;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    text-indent: 0;
+}
+.ract-box .djb a.b:hover {
+    background: none repeat scroll 0 0 #E43333;
+    border-color: #CE2D2D;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.moduleType {
+	margin-left: 50px;
+}/*  |xGv00|5dc8ce6143fb535f6b57d7582f709e43 */
